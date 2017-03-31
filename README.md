@@ -1,2 +1,2 @@
 # p3core.github.io
-p3core Advanced Solutions
+The P3CORE Repository
